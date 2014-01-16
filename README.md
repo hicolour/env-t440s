@@ -22,4 +22,4 @@ issues
   * sound
 
   * Ultradock
-  ** External screen viaddockin station (https://bugs.freedesktop.org/show_bug.cgi?id=71267)
+    External screen viaddockin station (https://bugs.freedesktop.org/show_bug.cgi?id=71267)
