@@ -21,4 +21,5 @@ issues
   * https://forums.lenovo.com/t5/Linux-Discussion/Ubuntu-13-10-on-a-T440-Wifi-Sound-Fingerprint-reader-and/td-p/1346853
   * sound
 
-  * dockin station (https://bugs.freedesktop.org/show_bug.cgi?id=71267)
+  * Ultradock
+  ** External screen viaddockin station (https://bugs.freedesktop.org/show_bug.cgi?id=71267)
