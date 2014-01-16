@@ -1,4 +1,4 @@
-t440s iisues
+Lenovo t440s setup
 ===============
 
   * wifi
@@ -22,4 +22,8 @@ issues
   * sound
 
   * Ultradock
-    External screen viaddockin station (https://bugs.freedesktop.org/show_bug.cgi?id=71267)
+ 
+    * (+)    Ethernet Port    
+    * (+)    USB Ports       
+    * (-)    Headphones port  
+    * (+/-)  External screen #freezes OS - try to turn off/on screen (https://bugs.freedesktop.org/show_bug.cgi?id=71267)
